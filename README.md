@@ -52,6 +52,7 @@ A big thank you to the following resources and tools that inspired or supported 
 - [general](https://sfx.thelazy.net/forum/general/10206/)
 - [yesornowheel](https://kick.com/yesornowheel/about)
 - [yesornowheel](https://yesornowheel.weebly.com/)
+- [yesorno](https://pinshape.com/users/6579814-mad-drive#designs-tab-open)
 
 Thank you for checking out the **Yes or No Wheel**! If you enjoy using it or have any feedback, feel free to reach out or star this repository ⭐.  
 ```  
