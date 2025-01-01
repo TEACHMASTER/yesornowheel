@@ -4,7 +4,7 @@
 Welcome to the **Yes or No Wheel** repository! This project is a simple, interactive decision-making tool that allows users to spin a wheel and randomly generate "Yes" or "No" answers. Whether you're facing a tough decision or just looking for some fun, this tool is here to help!  
 
 ## 🌐 Live Demo  
-Check out the live version of the website: [Yes or No Wheel]([https://example.com](https://yes-or-no.org/))  
+Check out the live version of the website: [Yes or No Wheel](https://yes-or-no.org/)
 
 ## 🚀 Features  
 - **Interactive Wheel**: Spin the wheel to get random "Yes" or "No" answers.  
@@ -48,7 +48,7 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 🙏 Acknowledgments  
 A big thank you to the following resources and tools that inspired or supported this project:  
-
+- [yes or no wheel](https://yes-or-no.org/)
 
 Thank you for checking out the **Yes or No Wheel**! If you enjoy using it or have any feedback, feel free to reach out or star this repository ⭐.  
 ```  
