@@ -49,6 +49,9 @@ This project is licensed under the [MIT License](./LICENSE).
 ## 🙏 Acknowledgments  
 A big thank you to the following resources and tools that inspired or supported this project:  
 - [yes or no wheel](https://yes-or-no.org/)
+- [general](https://sfx.thelazy.net/forum/general/10206/)
+- [yesornowheel](https://kick.com/yesornowheel/about)
+- [yesornowheel](https://yesornowheel.weebly.com/)
 
 Thank you for checking out the **Yes or No Wheel**! If you enjoy using it or have any feedback, feel free to reach out or star this repository ⭐.  
 ```  
