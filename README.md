@@ -56,6 +56,7 @@ A big thank you to the following resources and tools that inspired or supported 
 https://icon4.biology.ualberta.ca/workshop/#comment-623691
 https://www.pinterest.com/pin/1082834304157123136/
 https://www.blogger.com/comment/fullpage/post/4331058756168151030/6153735508456324799
+https://www.wrkz.work/thread-4181-post-107754.html#pid107754
 https://www.invenglobal.com/forum/lostark/141-guides-tips/9414-lost-ark-sol-grande-boss-guide-how-to-beat-location-and-rewards#IGCCS
 https://repo.getmonero.org/-/snippets/4538
 Thank you for checking out the **Yes or No Wheel**! If you enjoy using it or have any feedback, feel free to reach out or star this repository ⭐.  
